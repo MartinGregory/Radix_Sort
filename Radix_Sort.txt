@@ -1,0 +1,5 @@
+In this project I'm implementing Radix Sort. I'm building this project in two ways:
+
+(1) from scratch--i.e. implementing Stack and Queue as a raw Array of Linked Lists. I will not use STL for this version at all. I'll build Liked Lists from scratch. 
+
+(2) using the STL's bag of goodies.
